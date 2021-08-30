@@ -102,9 +102,9 @@ A Fully connected layer of 50 neurons with tanh activation.
 A Fully connected layer of 10 neurons with tanh activation.
 A Fully connected layer of 1 neuron with tanh activation.
 
-Here is a visualization of the architecture (note: visualizing the architecture is optional according to the project rubric)
+Here is a visualization of the architecture
 
-[image1]: ./examples/nVidia_model.png "nVidia_model"
+![nVidia_model](examples/nVidia_model.png)
 
 #### 3. Creation of the Training Set & Training Process
 
